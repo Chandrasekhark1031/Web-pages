@@ -1,0 +1,67 @@
+
+        *{
+            margin: 0px;
+            padding: 0px;
+            box-sizing: border-box;
+        }
+        body{
+            background-color: rgb(192, 229, 239);
+            width: 1050px;
+            height: 475px;
+        
+        }
+        
+        .login{
+            margin: 125px;
+            margin-left: 575px;
+            color: white;
+            background-color: rgb(180, 218, 229);
+            box-shadow: 10px 10px 20px white, -10px -10px 20px white;
+            padding: 80px;
+            width: 400px;
+            height: 450px;
+            border-radius: 15px;
+            font-size: 20px;
+            text-align: center;
+        }
+        #h1{
+            color: rgb(12, 11, 11);
+            font-size: 40px;
+        }
+        .email{
+            width: 250px; 
+            height: 35px;
+            border-radius: 15px;
+            border-color: rgb(79, 80, 81);
+            box-shadow: 6px 6px 12px white, -6px -6px 12px white;
+        }
+        .password{
+            width: 250px; 
+            height: 35px;
+            border-radius: 15px;
+            border-color: rgb(72, 71, 71);
+            box-shadow: 6px 6px 12px white, -6px -6px 12px white;
+        }
+        :placeholder-shown {
+            padding-left: 15px;
+            font-size: 13px;
+            color: rgb(12, 11, 11);
+        }
+        button:hover{
+            background-color: rgb(163, 207, 218);
+            color: white;   
+        }
+        
+        button{
+            width: 120px; 
+            height: 30px;
+            border-radius: 15px;
+            border-color: rgb(70, 71, 72);
+            font-size: large;
+            background-color: white;
+            color: rgb(11, 10, 10);
+            box-shadow: 6px 6px 12px white, -6px -6px 12px white;
+
+        }
+        
+    
